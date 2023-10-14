@@ -1,0 +1,5 @@
+﻿  SeqList.c
+  test_10_12.c
+  正在生成代码...
+D:\GitHub\C_CODE\SeqList\SeqList\SeqList.c(128): warning C4715: “SeqListFind”: 不是所有的控件路径都返回值
+  SeqList.vcxproj -> D:\GitHub\C_CODE\SeqList\x64\Debug\SeqList.exe
